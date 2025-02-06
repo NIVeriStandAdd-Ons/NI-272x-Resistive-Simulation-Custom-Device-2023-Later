@@ -6,7 +6,7 @@ It has not been widely used lately, but is still of high quality.  This is still
 ## NI 272x Resistive Simulation Custom Device ##
 
 **NI 272x Resistive Simulation Custom Device** integrates the NI 272x series resistive simulation hardware into NI VeriStand.
-This custom device supports Windows, Pharlap RT and Linux RT targets.
+This custom device supports Windows and Linux RT targets.
 
 ## Quick Start Documentation
 
@@ -18,7 +18,7 @@ The following table displays locations where you can access quick start document
 | Source | `Source\Quick Start Documentation` |
 ### LabVIEW Version ###
 
-The NI 272x Resistive Simulation Custom Device source code is in LabVIEW 2019.
+The NI 272x Resistive Simulation Custom Device source code is in LabVIEW 2023.
 
 ### Quality, Limitations ###
 
@@ -30,8 +30,7 @@ This IP should be considered high quality and mature. The IP has been used world
 
 ### Built Availability ###
 
-For VeriStand 2019 or later: See Releases tab. <br>
-For VeriStand 2016 or earlier: See [NI VeriStand Add-ons Community](https://decibel.ni.com/content/docs/DOC-24289).
+For VeriStand 2023 or later: See Releases tab. <br>
 
 ### Support and Contact ###
 This add-on is provided as open-source software.  If it does not meet your exact specification, you are encouraged to modify the source code to meet your needs.  It is not officially supported by NI.
