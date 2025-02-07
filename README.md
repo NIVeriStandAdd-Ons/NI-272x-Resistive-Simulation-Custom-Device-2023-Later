@@ -31,6 +31,7 @@ This IP should be considered high quality and mature. The IP has been used world
 ### Built Availability ###
 
 For VeriStand 2023 or later: See Releases tab. <br>
+For VeriStand 2021 or earlier, see [NI 272x Resistive Simulation Custom Device](https://github.com/NIVeriStandAdd-Ons/NI-272x-Resistive-Simulation-Custom-Device)
 
 ### Support and Contact ###
 This add-on is provided as open-source software.  If it does not meet your exact specification, you are encouraged to modify the source code to meet your needs.  It is not officially supported by NI.
